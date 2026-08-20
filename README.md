@@ -172,16 +172,17 @@ Traffic Video / Camera Feed
           ▼
 
  Traffic Flow Improvement
+ 
 
-
-Hackathon Impact
+```
+# Hackathon Impact
 
 SYNFLOW AI addresses key challenges highlighted in the CityFlow problem statement by:
 
-* Reducing urban congestion by dynamically prioritizing roads with higher traffic density.
-* Reducing commute and waiting time by allocating green time based on real-time vehicle demand instead of fixed signal cycles.
-* Reducing wasted vehicle movement by improving traffic flow through congested intersections.
-* Reducing fuel consumption and vehicle emissions by minimizing unnecessary idling and prolonged queues.
-* Supporting healthier urban environments by helping reduce congestion-related vehicle emissions.
-* Building smarter and more sustainable cities through responsive, AI-powered traffic infrastructure.
-* Improving mobility efficiency by making existing road infrastructure more effectively responsive to changing traffic conditions.
+- Reducing urban congestion by dynamically prioritizing roads with higher traffic density.
+- Reducing commute and waiting time by allocating green time based on real-time vehicle demand instead of fixed signal cycles.
+- Reducing wasted vehicle movement by improving traffic flow through congested intersections.
+- Reducing fuel consumption and vehicle emissions by minimizing unnecessary idling and prolonged queues.
+- Supporting healthier urban environments by helping reduce congestion-related vehicle emissions.
+- Building smarter and more sustainable cities through responsive, AI-powered traffic infrastructure.
+- Improving mobility efficiency by making existing road infrastructure more effectively responsive to changing traffic conditions.
